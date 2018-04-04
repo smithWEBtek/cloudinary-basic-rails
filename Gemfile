@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 # gem 'rails', '3.2.21'
 gem 'rails'
-gem 'cloudinary', :path => "../.."
+gem 'cloudinary'
 gem 'carrierwave'
 
 group :test, :development do
